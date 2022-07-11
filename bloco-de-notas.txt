@@ -1,0 +1,20 @@
+GIT
+
+Alguns comandos básicos:
+ctrl + l 	limpa a tela
+mkdir 		cria uma pasta/diretório 	'make directory'
+rmdir/rm	remove/exclui
+ls 		lista/visualiza conteúdo
+ls -l		lista informações e seus detalhes
+cd		entra no diretório/pasta
+cd ..		retorna um nível/pasta anterior
+touch / echo	cria arquivo 			<echo + nome do arquivo . formato>
+
+git init 	inicializa .git no diretório/pasta
+git status	status
+git add <nome>  adiciona o arquivo na staged área
+git add * ou .  adiciona tudo que está em working para a staged área
+git clone	clona repositório
+git commit -m 	faz a commit da versão com "descrição/comentários"
+git push 	envia os commits para o repositório remoto	<git push origin master>
+git pull	recebe as versões atuais do repositório remoto
