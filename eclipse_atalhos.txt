@@ -1,0 +1,14 @@
+ECLIPSE Comandos e atalhos
+
+ctrl + 3 			Pesquisa/lupa
+crtl + n			novo projeto/arquivo/class
+ package
+crtl + espaço 			pesquisa função
+Rum As 				salva/compila/run
++ 				concatenar dentro da instrução
+F2 	/ Alt + shift + r	altera nome
+crtl + m			expande/retorna a tela
+crtl +/-			aumenta e diminui a fonte
+*/ 				comentários - para não ler
+ctrl + d			apaga a linha do code
+seleciona + alt + seta		movimenta o código
